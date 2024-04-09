@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kabillan19
 - 👀 I’m interested in Linux,AI/ML
-- 🌱 I’m currently learning Python,Java
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Projects to learn from it
  
 
