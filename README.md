@@ -19,8 +19,7 @@ I'm actively seeking opportunities to collaborate on programming and design proj
 
 ## 📫 Connect With Me
 
-- **Instagram**: [@kabillan19](https://www.instagram.com/kabillan19)
-- **LinkedIn**: [@kabillan](https://www.linkedin.com/in/kabillan)
-- **Twitter**: [@kabillanta](https://twitter.com/kabillanta)
-
+- **Instagram**: [@kabillan.ta](https://www.instagram.com/kabillan19)
+- **LinkedIn**: [Kabillan T A](https://www.linkedin.com/in/kabillan)
+- 
 Don't hesitate to connect with me if you have any questions or if you're interested in collaborating on a project. I'm always eager to take on new challenges and expand my horizons.
