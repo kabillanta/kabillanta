@@ -11,7 +11,7 @@ Welcome to my GitHub profile! As a student with a passion for programming and de
 
 - **Programming Languages**: I'm focusing on mastering Python and JavaScript to excel in software development.
 - **Tech Tools**: I'm delving into frameworks like React and Django to build dynamic and interactive web applications.
-- **Design Skills**: I'm continuously exploring new tools and techniques to enhance my graphic design abilities.
+- **Design Tools**: I'm continuously exploring new tools and techniques to enhance my graphic design abilities.
 
 ## 🤝 Open for Collaborations
 
