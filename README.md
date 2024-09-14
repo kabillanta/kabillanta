@@ -5,7 +5,7 @@ Welcome to my GitHub! I'm a student who loves programming and design, always loo
 
 ## 👀 What I Like
 
-- **Coding**: I'm focused on improving my skills in Python and JavaScript.
+- **Coding**: I'm focused on improving my skills in Python.
 - **Design**: I enjoy creating user-friendly and appealing UI/UX designs.
 
 ## 🌱 What I'm Learning
