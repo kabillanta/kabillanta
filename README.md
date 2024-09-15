@@ -1,12 +1,10 @@
 
 # 👋 Hi, I'm Kabillan
 
-Welcome to my GitHub! I'm a student who loves programming and design, always looking for ways to combine creativity and tech. I'm excited to learn and work on new projects.
+Welcome to my GitHub! I'm a student who loves programming and design, always looking for ways to combine creativity and tech. I'm excited to learn and work on new project
 
-## 👀 What I Like
-
-- **Coding**: I'm focused on improving my skills in Python.
-- **Design**: I enjoy creating user-friendly and appealing UI/UX designs.
+<h2>My GitHub Stats</h2>
+<img src="https://github-readme-stats.vercel.app/api?username=kabillanta&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=dark" />
 
 ## 🌱 What I'm Learning
 
