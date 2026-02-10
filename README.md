@@ -20,12 +20,14 @@
 <br/>
 </div>
 ### I mostly work with
+
 <table>
   <p >
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,ts,js,dart,fastapi,flask,react,nextjs,flutter,tailwind,postgres,supabase,firebase,gcp,vercel,figma&perline=8" />
   </a>
 </p>
+</table>
 
 ### Github Stats
 <div>
