@@ -28,6 +28,6 @@
 </p>
 
 ### Github Stats
-<div align="center">
+<div>
   <img src="https://nirzak-streak-stats.vercel.app/?user=kabillanta&theme=transparent&hide_border=true" height="150" alt="streak graph" />
 </div>
